@@ -1,10 +1,10 @@
-name: Table of Contents
+name: TOC
 
 on: push
 
 jobs:
 
-  generate-toc:
+  generate:
     runs-on: ubuntu-latest
     steps:
     - name: TOC Generator
