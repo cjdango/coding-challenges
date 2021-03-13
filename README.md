@@ -4,7 +4,10 @@ This repository contains all of the coding challenges I have tried. Doing these 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Section One](#section-one)
+- [Counting minimum steps](#counting-minimum-steps)
+    - [Available steps](#available-steps)
+    - [Examples](#examples)
+    - [Solution](#solution)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
