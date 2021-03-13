@@ -8,6 +8,8 @@ This repository contains all of the coding challenges I have tried. Doing these 
     - [Available steps](#available-steps)
     - [Examples](#examples)
     - [Solution](#solution)
+- [Another](#another)
+  - [Solution](#solution-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
