@@ -1,0 +1,17 @@
+name: misc
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+
+  generate-toc:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: TOC Generator
+      uses: technote-space/toc-generator@v4.0.0
