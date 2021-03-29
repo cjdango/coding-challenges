@@ -7,7 +7,7 @@ This repository contains all of the coding challenges I have tried. Doing these 
 - [Counting minimum steps](#counting-minimum-steps)
     - [Available steps](#available-steps)
     - [Examples](#examples)
-    - [Solution](#solution)
+    - [Solution &#035;1 (brute force)](#solution-1-brute-force)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
