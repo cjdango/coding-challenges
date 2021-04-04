@@ -45,15 +45,15 @@ As you can see from the image above, there are 3  fastest combinations of steps 
 **Fastest Combinations:**
 
 - `(6/3) / 2 = 1`
-    - Step 1 = 6/3
-    - Step 2 = /2
+    - Step count 1 = 6/3
+    - Step count 2 = /2
 
 - `(6/3) - 1 = 1`
-    - Step 1 = 6/3
-    - Step 2 = -1
+    - Step count 1 = 6/3
+    - Step count 2 = -1
 - `(6/2) / 3 = 1`
-    - Step 1 = 6/3
-    - Step 2 = /3
+    - Step count 1 = 6/3
+    - Step count 2 = /3
 
 But how do we actually count the steps? Remember that we are doing a recursive function approach, so the return values of each function call are the actual step counts from the bottom to top (`n=1` to `n=6`).
 
