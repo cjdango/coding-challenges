@@ -14,7 +14,7 @@ This repository contains all of the coding challenges I have tried. Doing these 
 
 <!-- START Counting minimum steps -->
 # Counting minimum steps
-Given an integer n, return the minimum number of steps to minimize `n` to 1
+Given a positive integer n, return the minimum number of steps to minimize `n` to 1
 
 ### Available steps
 
