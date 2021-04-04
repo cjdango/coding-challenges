@@ -38,7 +38,7 @@ We can create a [recursive function](https://www.geeksforgeeks.org/recursive-fun
 
 We can think about this as a tree that can have three branches each node. Each branch represent each steps, `n-1` , `n/2` (if n is divisible by 2), and `n/3` (if n is divisible by 3). To further understand this solution, let's visualize it.
 
-![recursive tree](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b15fac56-f509-4560-8c2e-24d580cd8006/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210329%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210329T043716Z&X-Amz-Expires=86400&X-Amz-Signature=080f91623971809c3b28c9444b5015a90e81e9e2fd2311453b719c48260f55a8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![recursive tree](/minsteps/counting-min-steps-top-down-tree.png)
 
 As you can see from the image above, there are 3  fastest combinations of steps we can take to get 6 minimized to 1. All of the 3 combinations requires two steps, so `2` is the answer we are looking for, `2` is the count of minimum steps to minimize 6 to 1.
 
