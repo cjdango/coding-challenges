@@ -97,7 +97,7 @@ e.g. `fn(6)` always returns `2`, `fn(3)` always returns `1`
 
 So as you can imagine, we can just save the result of a function call in the memory then grab that result and use it as the return value the next time we encounter the same function call instead of calculating again and again. This way we can save a lot of time. 
 
-e.g.
+e.g. <br/>
 ![table](/minsteps/table.png)
 
 To memoized our function, we need some kind of memory storage to store the results of each unique nodes. We can utilize a list and it's indices since we are just dealing with positive integers. 
