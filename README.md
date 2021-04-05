@@ -117,7 +117,6 @@ fn(n int, memo int[]):
   if n === 1
     return 0
 
-  // Add this if statement
   // if n is already calculated and
   // stored its result in memo[n]
   if memo[n] != 0 {
