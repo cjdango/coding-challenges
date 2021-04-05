@@ -8,6 +8,7 @@ This repository contains all of the coding challenges I have tried. Doing these 
     - [Available steps](#available-steps)
     - [Examples](#examples)
     - [Solution &#035;1 (brute force)](#solution-1-brute-force)
+    - [Solution &#035;2 (memoization)](#solution-2-memoization)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
